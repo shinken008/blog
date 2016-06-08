@@ -1,3 +1,3 @@
 # Shinken008's blog
-##测试篇
-* [第一个链接](https://github.com/shinken008/blog/issues/1)
+##Angularjs
+* [AngularJS: 使用Scope时的6个陷阱](https://github.com/shinken008/blog/issues/1)
