@@ -7,3 +7,6 @@
 
 ## css
 * [animation 和 transition](https://github.com/shinken008/blog/issues/3)
+
+## Taro
+- [Taro@3.x 微信小程序不完全升级指南](https://github.com/shinken008/blog/issues/5)
